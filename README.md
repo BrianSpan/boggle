@@ -27,9 +27,9 @@ Algorithm eliminates reusing cubes (backtracking)
 Python 3.7+
 
 ### Sample output:
-> Scrambling cubes...
-> Extracting dictionary...
-> Narrowed down to 5009 possible words
+> Scrambling cubes...  
+> Extracting dictionary...  
+> Narrowed down to 5009 possible words  
 >
 > Current board:
 > 
@@ -39,15 +39,16 @@ Python 3.7+
 > | L | T | A | H |
 > | H | H | O | Y |
 >
-> Found 164 words:
+> Found 164 words:  
 > AARU,AHOY, AHURA,  ...
 >
-> LENGTH COUNT POINTS SCORE
->   4:   86  X   1  =  86
->   5:   58  X   2  = 116
->   6:   19  X   3  =  57
->   7:    1  X   5  =   5
->         TOTAL ===== 264
+> |LENGTH| COUNT| POINTS| SCORE|
+> |-|-|-|-|
+> |  4:|   86|  X   1|  =  86|
+> |  5:|   58|  X   2|  = 116|
+> |  6:|   19|  X   3|  =  57|
+> |  7:|    1|  X   5|  =   5|
+> |    |   | TOTAL| ===== 264|
 
 
 ### Acknowledgements
