@@ -2,7 +2,7 @@
 
 ### Part of a portfolio of Python Projects developed by Brian Spangler.
 
-Demonstration of understanding of Python, data structures (list and dictionary),recursion, and Depth-First Search algorithm
+Demonstration of understanding of Python, data structures (list and dictionary), recursion, and Depth-First Search algorithm
 
 - Creates a random 4x4 Boggle board (grid)
 - Trim a list of words down to only those whose letters are in the grid
@@ -20,7 +20,7 @@ Demonstration of understanding of Python, data structures (list and dictionary),
 > | POINTS| 1 |   1 |   2 |   3 |   5 |   11
 
 ### Features:
-Can specify an initial list of words
+Can specify an initial list of words  
 Algorithm eliminates reusing cubes (backtracking)
 
 ### Requirements:
@@ -33,14 +33,13 @@ Python 3.7+
 >
 > Current board:
 > 
-> | L | A | E | S |
-> |-|-|-|-|
-> | A | U | R | U |
-> | L | T | A | H |
-> | H | H | O | Y |
+> L A E S  
+> A U R U  
+> L T A H  
+> H H O Y   
 >
 > Found 164 words:  
-> AARU,AHOY, AHURA,  ...
+> AARU, AHOY, AHURA,  ...
 >
 > |LENGTH| COUNT| POINTS| SCORE|
 > |-|-|-|-|
